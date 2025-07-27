@@ -15,8 +15,17 @@ body{
     font-family: poppins, sans-serif;
 }
 
+.navbar-brand {
+    font-family: poppins, sans-serif;
+}
+
 .accordion {
     font-family: poppins, sans-serif;
-    margin-top: 100%;
+    margin-top: 1%;
+    padding : 40%;
 
+}
+
+.skillinfo {
+    margin-top: 8%;
 }
