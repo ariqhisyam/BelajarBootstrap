@@ -22,10 +22,18 @@ body{
 .accordion {
     font-family: poppins, sans-serif;
     margin-top: 1%;
-    padding : 40%;
+    padding : 60px;
+    
 
 }
 
 .skillinfo {
-    margin-top: 8%;
+    padding: 20%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.carousel {
+    margin-top: 1%;
+    padding: 60px;
 }
