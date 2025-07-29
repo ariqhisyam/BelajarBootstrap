@@ -37,3 +37,15 @@ body{
     margin-top: 1%;
     padding: 60px;
 }
+
+.buttonlinkedin{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+
+.tulisan {
+    margin-top: 6px;
+    padding-top: 3px;
+}
+
